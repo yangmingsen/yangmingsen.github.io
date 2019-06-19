@@ -1,7 +1,7 @@
 # Site settings | 网站设置
-title: yangmingsen
+title: 欢迎你的到来
 SEOTitle: yangmingsen的博客 | yangmingsen
-header-img: img/home-bg-he.png
+header-img: img/home-bg-he1.png
 email: yangmingsen16@outlook.com
 description: "yangmingsen的博客"
 keyword: "yangmingsen, yangmingsen的博客, yangmingsen, yangmingsen, yangmingsen"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/yangmingsen/yangmingsen.github.io.git" #code re
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "哈哈"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
